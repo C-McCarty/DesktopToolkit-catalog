@@ -1,6 +1,6 @@
 # Desktop Toolkit — Module Catalog
 
-The module catalog for **[Desktop Toolkit](https://github.com/CommanderMazerRackham/Windows-Monitor-Arrangement)**,
+The module catalog for **[Desktop Toolkit](https://github.com/C-McCarty/DesktopToolkit)**,
 a PowerToys-style suite for Windows 11. The app's **Catalog** tab reads
 [`catalog.json`](catalog.json) from this repo and installs the listed modules.
 
